@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-import s from './Form.modulle.css';
 
 class Form extends Component {
   state = {
